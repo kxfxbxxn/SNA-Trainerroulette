@@ -21,7 +21,8 @@ Kürzel des Trainers / Vereins (Kombination aus Vor- und Nachname / Vereinsname)
 
 Vollständiger Name des Trainers / Vereins
 
-**type**,
+**type** 
+
 1 = Trainer
 2 = Verein
 
