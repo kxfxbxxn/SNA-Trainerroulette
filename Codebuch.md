@@ -1,4 +1,4 @@
-Codebuch,
+# Codebuch
 Wert,Kommentar
 edgelist,
 from,"ID des Herkunftsknotens (Verein, der Trainer entlässt, oder Trainer, der zu Verein kommt)"
