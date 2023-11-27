@@ -21,9 +21,14 @@ Verein, zu dem ein Trainer geht, oder Trainer, der einen Verein verlässt
 
 2 = Trainer kommt zum Verein
 
-pps,Die durchschnittliche Anzahl der Punkte in den letzten / ersten fünf Spielen vor Abgang / Neu-Transfer 
-effect,"Der Trainereffekt codiert in Zahlen - von 0,5 bis 6"
-nodelist,
+**pps**
+
+Die durchschnittliche Anzahl der Punkte in den letzten / ersten fünf Spielen vor Abgang / Neu-Transfer 
+
+
+
+**effect**
+Der Trainereffekt codiert in Zahlen - von 0,5 bis 6
 
 ## NODE-Attribute
 
