@@ -13,8 +13,7 @@ nodelist,
 
 ## NODE-Attribute
 
-**id**
-
+**id** 
 (eindeutige Codierung des Knoten)   
 Kürzel des Trainers / Vereins (Kombination aus Vor- und Nachname / Vereinsname)
 
@@ -22,13 +21,11 @@ Kürzel des Trainers / Vereins (Kombination aus Vor- und Nachname / Vereinsname)
 
 Vollständiger Name des Trainers / Vereins
 
-**type**
-
+**type** 
 1 = Trainer
 2 = Verein
 
-**league**
-
+**league** 
 1 = Bundesliga
 2 = Premier League
 3 = LaLiga
