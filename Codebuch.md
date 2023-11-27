@@ -84,7 +84,7 @@ Hier wird erfasst, in welcher erstklassigen Fußball-Liga sich der Fußballtrain
 
 2 = Premier League (England)
 
-3 = LaLiga (Spanien)
+3 = La Liga (Spanien)
 
 4 = Serie A (Italien)
 
