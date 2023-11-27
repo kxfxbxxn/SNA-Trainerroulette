@@ -27,7 +27,7 @@ Vollständiger Name des Trainers / Vereins
 1 = Trainer
 2 = Verein
 
-**type** 
+**league** 
 
 1 = Bundesliga
 2 = Premier League
