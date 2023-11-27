@@ -1,0 +1,157 @@
+id,name,type,league
+AA,Aurelio Andreazzoli,1,4
+AAG,Alessandro Agostini,1,4
+AAL,Angelo Alessio,1,4
+ABL,Alexander Blessin,1,4
+ACF,AC Florenz,2,4
+ACMI,AC Milan,2,4
+ACMO,AC Monza,2,4
+ACNS,ACN Siena,2,4
+ADI,Alessio Dionisi,1,4
+AMA,Alberto Malesani,1,4
+ANMA,Andrea Mandorlini,1,4
+ANSO,Andrea Sottil,1,4
+APE,Attilio Perotti,1,4
+API,Andrea Pirlo,1,4
+ASH,Andriy Shevchenko,1,4
+ASO,Andrea Soncin,1,4
+ASR,AS Roma,2,4
+AST,Andrea Stramaccioni,1,4
+AT,Atalanta Bergamo,2,4
+BC,Brescia Calcio,2,4
+BEC,Benevento Calcio,2,4
+BFC,Bolgona FC,2,4
+BM,Bortolo Mutti,1,4
+CAFC,Catania FC,2,4
+CB,Cristian Brocchi,1,4
+CBE,Cristiano Bergodi,1,4
+CCA,Cagliari Calcio,2,4
+CF,Ciro Ferrara,1,4
+CVE,Chievo Verona,2,4
+DAR,Daniele Arrigoni,1,4
+DB,Davide Ballardini,1,4
+DBO,Diego Bortoluzzi,1,4
+DDC,Domenico Di Carlo,1,4
+DEM,Devis Mangia,1,4
+DL,Diego Lopez,1,4
+DN,Davide Nicola,1,4
+DR,Delio Rossi,1,4
+ECO,Eugenio Corini,1,4
+EDF,Eusebio Di Francesco,1,4
+EMFC,Empoli FC,2,4
+EMO,Emiliano Mondonico,1,4
+ERE,Edoardo Reja,1,4
+FACA,Fabrizio Castori,1,4
+FLO,Fabrizio Lorieri,1,4
+FAL,Fabio Liverani,1,4
+FCAL,Frosinone Calcio,2,4
+FCBO,FC Bologna,2,4
+FCCA,FC Carpi,2,4
+FCCE,FC Cesena,2,4
+FCCR,FC Crotone,2,4
+FCT,FC Turin,2,4
+FG,Fabio Grosso,1,4
+FI,Filippo Inzaghi,1,4
+FP,Francesco Pedone,1,4
+FPE,Fabio Pecchia,1,4
+FT,Felice Tufano,1,4
+GBS,Guillermo Barros Schelotto,1,4
+GC,Gabriele Cioffi,1,4
+GCFC,Genua CFC,2,4
+GI,Giuseppe Iachini,1,4
+GIF,Gianluca Festa,1,4
+GIMA,Giovanni Martusciello,1,4
+GPG,Gian Piero Gasperini,1,4
+GPV,Gian Piero Ventura,1,4
+GSA,Guiseppe Sannino,1,4
+GST,Giovanni Stroppa,1,4
+GT,Giovanni Tedesco,1,4
+GZO,Gianfranco Zola,1,4
+HV,Hellas Verona,2,4
+IJ,Ivan Juric,1,4
+IM,Inter Mailand,2,4
+IP,Ivo Pulga,1,4
+JU,Juventus Turin,2,4
+LDA,Lorenzo D'Anna,1,4
+LDB,Luigi Di Biagio,1,4
+LDC,Luigi De Canio,1,4
+LGO,Luca Gotti,1,4
+LR,Lazio Roma,2,4
+LS,Leonardo Semplici,1,4
+LSP,Luciano Spalletti,1,4
+LUD,Luigi Delneri,1,4
+MAA,Massimiliano Allegri,1,4
+MACA,Massimo Carrera,1,4
+MAL,Massimiliano Alvini,1,4
+MARA,Massimo Rastelli,1,4
+MB,Marco Baroni,1,4
+MBE,Mario Beretta,1,4
+MCO,Massimo Colomba,1,4
+MFI,Massimo Ficcadenti,1,4
+MGI,Marco Giampaolo,1,4
+MLO,Moreno Longo,1,4
+MOD,Massimo Oddo,1,4
+MT,Mauro Tassotti,1,4
+MZ,Marco Zaffaroni,1,4
+NFC,Novara FC,2,4
+PC,Parma Calcio 1913,2,4
+PC36,Pescara Calcio 1936,2,4
+PFC,Palermo FC,2,4
+PIB,Pierpaolo Bisoli,1,4
+PMAR,Pasquale Marino,1,4
+PZ,Paolo Zanetti,1,4
+RD,Roberto D'Aversa,1,4
+RMA,Rolando Maran,1,4
+RODO,Roberto Donadoni,1,4
+ROM,Roberto Mancini,1,4
+RP,Raffaele Palladino,1,4
+SAG,Sampdoria Genua,2,4
+SBO,Salvatore Bocchetti,1,4
+SCO,Serse Cosmi,1,4
+SI,Simone Inzaghi,1,4
+SM,Siniša Mihajlović,1,4
+SP,Spezia Calcio,2,4
+SPAL,SPAL Ferrera,2,4
+SPI,Stefano Pioli,1,4
+SSCN,SSC Napoli,2,4
+STCO,Stefano Colantuono,1,4
+SVE,Stefano Vecchi,1,4
+TM,Thiago Motta,1,4
+UCA,Udinese Calcio,2,4
+USC,US Cremonese,2,4
+USL,US Lecce,2,4
+USLI,US Livorno 1915,2,4
+USS,US Salernitana 1919,2,4
+USSA,US Sassuolo,2,4
+VFC,Venezia FC,2,4
+VIT,Vincenco Italiano,1,4
+WN,Walter Novellino,1,4
+WZ,Walter Zenga,1,4
+ZZ,Zdenek Zeman,1,4
+CA,Carlo Ancelotti,1,6
+CC,Carlos Carvalhal,1,6
+CPR,Cesare Prandelli,1,6
+CR,Claudio Ranieri,1,6
+CS,Clarence Seedorf,1,6
+GG,Gennaro Gattuso,1,6
+JM,Jose Mourinho,1,6
+JV,Julio Velázquez,1,6
+LEN,Luis Enrique,1,6
+MAP,Mauricio Pellegrino,1,6
+MBI,Marcelo Bielsa,1,6
+MS,Maurizio Sarri,1,6
+PF,Paulo Fonseca,1,6
+PS,Paulo Sousa,1,6
+RB,Rafael Benítez,1,6
+RG,Rudi Garcia,1,6
+VMO,Vincenzo Montella,1,6
+VP,Vladimir Petkovic,1,6
+WM,Walter Mazzarri,1,6
+AC,Antonio Conte,1,6
+ATE,Attilio Tesser,1,4
+DST,Dejan Stanković,1,4
+FDB,Frank de Boer,1,6
+FGU,Francesco Guidolin,1,6
+IT,Igor Tudor,1,6
+RDZ,Roberto de Zerbi,1,6
+VG,Vincenzo Guerini,1,4
