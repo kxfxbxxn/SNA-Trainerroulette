@@ -1,0 +1,167 @@
+id,name,type,league
+AB,Abelardo,1,3
+ABI,Athletic Bilbao,2,3
+ACE,Álvaro Cervera,1,3
+AFE,Albert Ferrer,1,3
+AG,Asier Garitano,1,3
+AL,Alessio Lisci,1,3
+ALA,Deportivo Alaves,2,3
+ALC,Albert Celades,1,3
+AM,Atlètico Madrid,2,3
+AMO,Antonio Mohamed,1,3
+ARE,Abel Resino,1,3
+ATR,Alexis Trujillo,1,6
+BSCHU,Bernd Schuster,1,3
+CAO,CA Osasuna,2,3
+CCF,Cádiz CF,2,3
+CCO,Cosmin Contra,1,3
+CDL,CD Leganes,2,3
+COG,Constantin Galca,1,3
+CPA,Cristobal Parralo,1,3
+CZ,Cuco Ziganda,1,3
+DG,David Gallego,1,3
+DLC,Deportivo La Coruna,2,3
+DP,Domingos Paciencia,1,3
+DSI,Diego Simeone,1,3
+EBE,Eduardo Berizzo,1,3
+EMA,Enrique Martín,1,3
+EU,Eusebio,1,3
+EV,Ernesto Valverde,1,3
+FCBA,FC Barcelona,2,3
+FCCO,FC Córdoba,2,3
+FCE,FC Elche,2,3
+FCM,FC Malaga,2,3
+FE,Fran Escribá,1,3
+FGO,Fabri Gonzales,1,3
+FRU,Francisco Rufete,1,3
+FV,Fernando Vázquez,1,3
+GCA,Gabriel Calderon,1,3
+GCF,Getafe CF,2,3
+GDB,Giovanni De Biasi,1,3
+GFC,Girona FC,2,3
+GG,Gennaro Gattuso,1,3
+GGA,Gaizka Garitano,1,3
+GMA,Gregorio Manzano,1,3
+GMAR,Gerardo Martino,1,3
+GN,Gary Neville,1,3
+GRFC,Granada FC,2,3
+HCU,Hector Cuper,1,3
+IA,Imanol Alguacil,1,3
+ITE,Inaki Tejada,1,3
+JAC,Javier Calleja,1,3
+JACA,Javier Cabello,1,3
+JACL,Javier Clemente,1,3
+JAG,Javier Aguirre,1,3
+JANQ,Juan Anquela,1,3
+JAP,Juan Antonio Pizzi,1,3
+JAR,Jagoba Arrasate,1,3
+JARO,Jose Antonio Romero,1,3
+JC,Joaquín Caparrós,1,3
+JCG,Juan Carlos Garrido,1,3
+JCU,Juan Carlos Unzue,1,3
+JE,Juan Esnáider,1,3
+JFM,Jose Francisco Molina,1,3
+JIM,Juan Ignacio Martinez,1,3
+JLO,Jose Luis Oltra,1,3
+JME,Juan Merino,1,3
+JMU,Juan Muñiz,1,3
+JOG,José González,1,3
+JPE,Javier Pereira,1,3
+JR,Juande Ramos,1,3
+JRO,Jordi Roura,1,3
+JRS,José Ramón Sandoval,1,3
+LAL,Lucas Alcaraz,1,3
+LBL,Luis Blanco,1,3
+LC,Luis Cembranos,1,3
+LF,Leo Franco,1,3
+LG,Luis García,1,3
+LZ,Luis Zubeldia,1,3
+MALO,Miguel Angel Lotina,1,3
+MAMA,Manolo Marquez,1,3
+MBI,Marcelo Bielsa,1,3
+MD,Miroslav Djukic,1,3
+MI,Michel,1,3
+MJI,Manolo Jimenez,1,3
+MRO,Marcelo Romero,1,3
+NE,Nico Estevez,1,3
+PAF,Pablo Franco,1,3
+PAY,Pako Ayestarán,1,3
+PHE,Paco Herrera,1,3
+PJ,Paco Jémez,1,3
+PLO,Paco Lopez,1,3
+PVA,Petar Vasiljevic,1,3
+RBE,Real Betis Sevilla,2,3
+RCC,Celta Vigo,2,3
+RCD,Espanyol Barcelona,2,3
+RCDM,RCD Mallorca,2,3
+RK,Ronald Koeman,1,3
+RM,Real Madrid,2,3
+RSA,Racing Santander,2,3
+RSO,Real Sociedad,2,3
+RT,Ruben Torrecilla,1,3
+RV,Rayo Vallecano,2,3
+RVAD,Real Valladolid,2,3
+SAR,Real Saragossa,2,3
+SBA,Sergi Barjuan,1,3
+SDEI,SD Eibar,2,3
+SDH,SD Huesca,2,3
+SE,Sergio,1,3
+SEFC,Sevilla FC,2,3
+SEMA,Sergio Mantecon,1,3
+SG,Sporting Gijon,2,3
+SSO,Santiago Solari,1,3
+TAD,Tony Adams,1,3
+TV,Tito Vilanova,1,3
+UDA,UD Almería,2,3
+UDLE,UD Levante,2,3
+UDLP,UD Las Palmas,2,3
+VCF,Valencia CF,2,3
+VF,Víctor Fernández,1,3
+VICF,Villarreal CF,2,3
+VO,Voro,1,3
+VSA,Víctor Sánchez,1,3
+ZIZI,Zinedine Zidane,1,3
+AI,Andoni Iraola,1,6
+AKA,Aitor Karanka,1,6
+CA,Carlo Ancelotti,1,6
+CC,Carlos Carvalhal,1,6
+CPR,Cesare Pradelli,1,6
+DM,David Moyes,1,6
+DMA,Diego Martínez,1,6
+EC,Eduardo Coudet,1,6
+FR,Francisco Rodríguez,1,6
+GPO,Gustavo Poyet,1,6
+JA,Jorge Almiron,1,6
+JG,Javi Gracia,1,6
+JL,Julen Lopetegui,1,6
+JLM,José Luis Mendilibar,1,6
+JS,Jorge Sampaoli,1,6
+JV,Julio Velázquez,1,6
+LEN,Luis Enrique,1,6
+MAP,Mauricio Pellegrino,1,6
+MAR,Marcelino,1,6
+MP,Mauricio Pochettino,1,6
+MPE,Manuel Pellegrini,1,6
+OGA,Oscar Garcia,1,6
+PA,Pacheta,1,6
+PBO,Pepe Bordalás,1,6
+PMA,Pablo Machin,1,6
+PME,Pepe Mel,1,6
+PP,Paulo Pezzolano,1,6
+QS,Quique Setién,1,6
+QSF,Quique Sánchez Flores,1,6
+RB,Rafael Benítez,1,6
+RBA,Rubén Baraja,1,6
+RU,Rubi,1,6
+SBE,Sebastián Beccacece,1,6
+UM,Unai Emery,1,6
+VM,Vicente Moreno,1,6
+CS,Clarence Seedorf,1,6
+NES,Nuno Espirito Santo,1,6
+PMO,Philippe Montanier,1,6
+PGU,Pep Guardiola,1,6
+JM,Jose Mourinho,1,6
+ML,Michael Laudrup,1,6
+RMO,Robert Moreno,1,6
+MCAR,Miguel Cardoso,1,6
+VMO,Vincenzo Montella,1,6
