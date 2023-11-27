@@ -21,9 +21,9 @@ Kürzel des Trainers / Vereins (Kombination aus Vor- und Nachname / Vereinsname)
 
 Vollständiger Name des Trainers / Vereins
 
-**type** 
-"1 = Trainer
-2 = Verein"
+**type**,
+1 = Trainer
+2 = Verein
 
 **league** 
 1 = Bundesliga
