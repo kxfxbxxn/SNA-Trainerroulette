@@ -1,0 +1,149 @@
+id,name,type,league
+ABO,Abdel Bouhazama,1,5
+ACA,AC Ajaccio,2,5
+ACAS,Alain Casanova,1,5
+AD,Alexandre Dujeux,1,5
+ADU,Alex Dupont,1,5
+AEM,Albert Emon,1,5
+AJ,Ariël Jacobs,1,5
+AJA,AJ Auxerre,2,5
+AK,Antoine Kombouaré,1,5
+AMI,Amiens SC,2,5
+ASCO,Angers SCO,2,5
+ASL,AS Nancy-Lorraine,2,5
+ASM,AS Monaco,2,5
+ASSE,AS Saint-Étienne,2,5
+AUR,Adrian Ursea,1,5
+BCA,Bernard Casoni,1,5
+BG,Bruno Genesio,1,5
+BGR,Bruno Grougi,1,5
+BI,Bruno Irles,1,5
+CBR,Christian Bracconi,1,5
+CGA,Christophe Galtier,1,5
+CHG,Christian Gourcuff,1,5
+CM,Carles Martínez,1,5
+CMA,Corentin Martins,1,5
+CP,Christophe Pélissier,1,5
+CRO,Claude Robin,1,5
+DARR,Dominique Arribage,1,5
+DDI,Didier Digard ,1,5
+DFCO,Dijon FCO,2,5
+DGU,David Guion,1,5
+DLI,David Linares,1,5
+DZ,Denis Zanko,1,5
+EAG,EA Guingamp,1,5
+EB,Élie Baup,1,5
+EBED,Eric Bedouet,1,5
+EH,Eric Hély,1,5
+ERO,Eric Roy,1,5
+ET,Estac Troyes,2,5
+FA,Frederic Antonetti,1,5
+FCET,FC Évian Thonon Gaillard,2,5
+FCGB,FC Girondins Bordeaux,2,5
+FCIC,Francois Ciccolini,1,5
+FCL,FC Lorient,2,5
+FCME,FC Metz,2,5
+FCNA,FC Nantes,2,5
+FCSM,FC Sochaux-Montbéliard,2,5
+FCSR,FC Stade Rennes,2,5
+FCV,FC Valenciennes,2,5
+FDC,Fernando Da Cruz,1,5
+FFA,Francesco Farioli,1,5
+FHA,Franck Haise,1,5
+FM,Fabien Mercadal,1,5
+FPA,Franck Passi,1,5
+FRA,Fabrizio Ravanelli,1,5
+FRHA,Frederic Hantz,1,5
+GB,Gérald Baticle,1,5
+GPR,Ghislain Printant,1,5
+HR,Hervé Renard,1,5
+IT,Igor Tudor,1,5
+JAN,José Anigo,1,5
+JEA,Jerome Arpinon,1,5
+JF,Jean Fernandez,1,5
+JGO,Jocelyn Gourvennec,1,5
+JGW,Jean-Guy Wallemme,1,5
+JLG,Jean-Louis Gasset,1,5
+JLGA,Jean-Louis Garcia,1,5
+JSA,Julien Sable,1,5
+JST,Julien Stephan,1,5
+LB,Laurent Blanc,1,5
+LBO,Laszlo Boeloeni,1,5
+LCH,Landry Chauvin,1,5
+LE,Luka Elsner,1,5
+LJ,Leonardo Jardim,1,5
+LOSC,Lille OSC,2,5
+MBR,Mohamed Bradja,1,5
+MDE,Mickael Debeve,1,5
+MDZ,Michel Der Zakarian,1,5
+MHSC,Montpellier HSC,2,5
+MLS,Mathieu Le Scornet,1,5
+MPA,Michael Padavoni,1,5
+NL,Nasser Laguet,1,5
+NO,Nimes Olympique,2,5
+OD,Olivier Dall'Oglio,1,5
+ODA,Omar Daf,1,5
+OGU,Olivier Guegan,1,5
+OGCN,OGC Nice,2,5
+OL,Olympique Lyon,2,5
+OM,Olympique Marseille,2,5
+PAR,Pierre Aristouy,1,5
+PBA,Pascal Baills,1,5
+PBI,Philippe Bizeul,1,5
+PCO,Patrick Collot,1,5
+PCOR,Pablo Correa,1,5
+PDU,Pascal Dupraz,1,5
+PG,Patrice Garande,1,5
+PGA,Patrick Gabriel,1,5
+PHC,Philippe Clement,1,5
+PK,Patrick Kisnorbo,1,5
+PPL,Pascal Plancque,1,5
+PSG,Paris Saint German,2,5
+RA,Rui Almeida,1,5
+RCO,Rolland Courbis,1,5
+RCS,RC Strasbourg,2,5
+RDO,Raymond Domenech,1,5
+RGI,Rene Girard,1,5
+RLB,Regis le Bris,1,5
+RMAR,Rene Marsiglia,1,5
+RPI,Romain Pitau,1,5
+SB29,Stade Brest 29,2,5
+SCB,SC Bastia,2,5
+SECO,Sergio Conceicao,1,5
+SLA,Sabri Lamouchi,1,5
+SMC,Stade Malherbe Caen Calvados Basse-Normandie,2,5
+SREI,Stade Reims,2,5
+SREN,Stade Rennes,2,5
+SY,Sylvinho,1,5
+THE,Thierry Henry,1,5
+TOUFC,Toulouse FC,2,5
+URA,Ulrich Rame,1,5
+VHA,Vahid Halilhodzic,1,5
+WS,Will Still,1,5
+WSA,Willy Sagnol,1,5
+AH,Adi Hütter,1,6
+AVB,Andre Villas-Boas,1,6
+CA,Carlo Ancelotti,1,6
+CPU,Claude Puel,1,6
+GPO,Gustavo Poyet,1,6
+JS,Jorge Sampaoli,1,6
+LEN,Luis Enrique,1,6
+LFA,Lucien Favre,1,6
+MAR,Marcelino,1,6
+MBI,Marcelo Bielsa,1,6
+MCAR,Miguel Cardoso,1,6
+MP,Mauricio Pochettino,1,6
+NK,Niko Kovac,1,6
+OGA,Oscar Garcia,1,6
+PB,Peter Bosz,1,6
+PMO,Philippe Montanier,1,6
+PS,Paulo Sousa,1,6
+PV,Patrick Vieira,1,6
+RG,Rudi Garcia,1,6
+RMO,Robert Moreno,1,6
+TT,Thomas Tuchel,1,6
+UM,Unai Emery,1,6
+VP,Vladimir Petkovic,1,6
+PF,Paulo Fonseca,1,6
+CR,Claudio Ranieri,1,6
+MI,Michel,1,6
