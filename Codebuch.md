@@ -14,6 +14,7 @@ nodelist,
 ## NODE-Attribute
 
 **id** 
+
 (eindeutige Codierung des Knoten)   
 Kürzel des Trainers / Vereins (Kombination aus Vor- und Nachname / Vereinsname)
 
