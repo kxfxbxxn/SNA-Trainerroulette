@@ -1,0 +1,136 @@
+id,name,type,league
+ABE,Achim Beierlorzer,1,1
+ABR,André Breitenreiter,1,1
+ACO,Ante Covic,1,1
+AH,Adi Hütter,1,6
+AJO,Andries Jonker,1,1
+ANO,Alexander Nouri,1,1
+AS,Alfred Schreuder,1,1
+ASC,Andre Schubert,1,1
+AVE,Armin Veh,1,1
+AZO,Alexander Zorniger,1,1
+B04,Bayer 04 Leverkusen,2,1
+BHO,Bernd Hollerbach,1,1
+BLAB,Bruno Labbadia,1,1
+BMG,Borussia Mönchengladbach,2,1
+BS,Bo Svennson,1,1
+BSC,Hertha BSC,2,1
+BSCH,Boris Schommers,1,1
+BVB,Borussia Dortmund,2,1
+BVM,Bert van Marwijk,1,1
+CA,Carlo Ancelotti,1,6
+CG,Christian Gross,1,1
+CST,Christian Streich,1,1
+CT,Christian Titz,1,1
+DAST,Daniel Stendel,1,1
+DFA,Daniel Farke,1,6
+DGR,Dimitrios Grammozis,1,1
+DH,Dieter Hecking,1,1
+DSC,Arminia Bielefeld,2,1
+DSCH,Dirk Schuster,1,1
+DT,Domenico Tedesco,1,1
+DTO,Dino Toppmöller,1,1
+DWA,David Wagner,1,1
+ENMA,Enrico Maaßen,1,1
+ETE,Edin Terzic,1,1
+F95,Fortuna Düsseldorf,2,1
+FCA,FC Augsburg,2,1
+FCB,FC Bayern München,2,1
+FCI,FC Ingolstadt 04,2,1
+FCK,1. FC Köln,2,1
+FCKA,1. FC Kaiserslautern,2,1
+FCN,1. FC Nürnberg,2,1
+FF,Friedhelm Funkel,1,1
+FKO,Florian Kohfeldt,1,1
+FKR,Frank Kramer,1,1
+FMA,Felix Magath,1,6
+FS,Frank Schaefer,1,1
+FSVM,1. FSV Mainz 05,2,1
+GS,Gerardo Seoane,1,1
+GV,Gertjan Verbeek,1,1
+H96,Hannover 96,2,1
+HF,Hansi Flick,1,1
+HH,Heiko Herrlich,1,1
+HS,Huub Stevens,1,1
+HSV,Hamburger SV,2,1
+HW,Hannes Wolf,1,1
+JH,Jupp Heynckes,1,1
+JK,Jens Keller,1,1
+JKL,Jürgen Klinsmann,1,1
+JKR,Jürgen Kramny,1,1
+JLU,Jos Luhukay,1,1
+JMA,Jesse Marsch,1,6
+JML,Jan Moritz Lichte,1,1
+JN,Julian Nagelsmann,1,1
+JZ,Josef Zinnbauer,1,1
+KBA,Krasimir Balakov,1,1
+KH,Kasper Hjulmand,1,1
+LFA,Lucien Favre,1,6
+LGK,Lorenz-Günther Köstner,1,1
+LPR,Ludwig Preis,1,1
+MBA,Manuel Baum,1,1
+MBAB,Markus Babbel,1,1
+MF,Michael Frontzeck,1,1
+MG,Markus Gisdol,1,1
+MKAU,Markus Kauczinski,1,1
+MKO,Marco Kostmann,1,1
+MKU,Marco Kurz,1,1
+MR,Marco Rose,1,1
+MRA,Marcel Rapp,1,1
+MSC,Martin Schmidt,1,1
+MSCH,Manfred Schmid,1,1
+MSK,Michael Skibbe,1,1
+MSL,Mirko Slomka,1,1
+MVB,Mark van Bommel,1,1
+MW,Markus Weinzierl,1,1
+MWA,Maik Walpurgis,1,1
+MWI,Michael Wimmer,1,1
+MWIE,Michael Wiesinger,1,1
+NK,Niko Kovac,1,6
+NM,Norbert Meier,1,1
+NW,Nico Willig,1,1
+OG,Oliver Glasner,1,1
+OR,Otto Rehhagel,1,1
+PB,Peter Bosz,1,6
+PD,Pal Dardai,1,1
+PGU,Pepp Guardiola,1,1
+PKN,Peter Knäbel,1,1
+PM,Pellegrino Matarazzo,1,1
+PST,Peter Stöger,1,1
+RBER,Ramon Berndroth,1,1
+RBL,RB Leipzig,2,1
+RC,Rodolfo Cardoso,1,1
+RDM,Roberto di Matteo,1,6
+RDU,Robin Dutt,1,1
+ROS,Roger Schmidt,1,1
+RPR,Roger Prinzen,1,1
+RR,Ralf Rangnick,1,1
+S04,Schalke 04,2,1
+SB,Steffen Baumgart,1,1
+SCF,SC Freiburg,2,1
+SGE,Eintracht Frankfurt,2,1
+SGF,SpVgg Greuther Fürth,2,1
+SH,Sebastian Hoeneß,1,1
+SHY,Sami Hyypiä,1,1
+SLE,Sascha Lewandowski,1,1
+SR,Stefan Ruthenbeck,1,1
+SS,Sandro Schwarz,1,1
+SVD,SV Darmstadt 98,2,1
+SVW,SV Werder Bremen,2,1
+TD,Thomas Doll,1,1
+TF,Thorsten Fink,1,1
+TFR,Torsten Frings,1,1
+TK,Tayfun Korkut,1,1
+TL,Thomas Letsch,1,1
+TR,Thomas Reis,1,1
+TS,Thomas Schaaf,1,1
+TSCH,Thomas Schneider,1,1
+TSGH,TSG Hoffenheim,2,1
+TT,Thomas Tuchel,1,6
+UR,Uwe Rössler,1,1
+VFB,VfB Stuttgart,2,1
+VFLB,VfL Bochum,2,1
+VFLW,VfL Wolfsburg,2,1
+VIS,Valerien Ismael,1,1
+VS,Viktor Skrypnyk,1,1
+XA,Xabi Alonso,1,1
